@@ -1,0 +1,1 @@
+python main_crosscl.py -a resnet50 --lr 0.3 --batch-size 256 --dist-url tcp://localhost:10005 --multiprocessing-distributed --world-size 1 --rank 0  --mlp --moco-t 0.2 --aug-plus --cos --epochs 800 --dataset coco /path/to/coco/train/
