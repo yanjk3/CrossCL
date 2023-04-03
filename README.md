@@ -47,7 +47,7 @@ cd mmdetection
 sh ./tools/dist_train.sh configs/mask_rcnn/mask_rcnn_r50_fpn_1x_coco.py \ 
     --options model.init_cfg.checkpoint=/path/to/output/checkpoint 8
 ```
-Note, we do not provide the training scripts for training with mmdetection.
+Note, we do not provide the training code for training with mmdetection.
 
 However, you can use the converted backbone model and follow the guidelines of mmdetection to train the model.
 
