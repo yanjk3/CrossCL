@@ -51,9 +51,20 @@ Note, we do not provide the training code for training with mmdetection.
 
 However, you can use the converted backbone model and follow the guidelines of mmdetection to train the model.
 
+## Checkpoints and Logs
+The pre-training and fine-tuning checkpoints and the corresponding training log can be downloaded [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
+
+If you have any problem, plz feel free to open an issue or contact me.
+
 ## Acknowledgement 
 - This repository is heavily based on [MoCo](https://github.com/facebookresearch/moco) and [ReSim](https://github.com/Tete-Xiao/ReSim).
 
-<!-- - If you use this paper/code in your research, please consider citing us:
+- If you use this paper/code in your research, please consider citing us:
 ```
-``` -->
+@inproceedings{yan2023cross,
+  title={Self-supervised Cross-stage Regional Contrastive Learning for Object Detection},
+  author={Yan, junkai and Yang, Lingxiao and Gao, Yipeng and Zheng, Wei-Shi},
+  booktitle={ICME},
+  year={2023},
+}
+```
