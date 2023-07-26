@@ -52,7 +52,7 @@ Note, we do not provide the training code for training with mmdetection.
 However, you can use the converted backbone model and follow the guidelines of mmdetection to train the model.
 
 ## Checkpoints and Logs
-The pre-training and fine-tuning checkpoints and the corresponding training log can be downloaded [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
+The pre-training/converted checkpoints and the pre-training/fine-tunig training logs can be downloaded [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
 
 If you have any problem, plz feel free to open an issue or contact me.
 
