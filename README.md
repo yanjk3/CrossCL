@@ -2,13 +2,18 @@
 
 Official PyTorch implementation of ICME2023 paper “Self-supervised Cross-stage Regional Contrastive Learning for Object Detection”.
 
+## News
+- 2023/08/17 We apply CrossCL ResNet50 backbone to our sparse detector [ASAG](https://github.com/fushh/ASAG) and improve +1.2 AP.
+- 2023/07/26 Checkpoints and Logs are released at [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
+- 2023/04/02 Code released.
+
 ## Environments
 - python 3.7
 - pytorch 1.6.0
 - cuda 10.2
 
 ## Pre-training
-All the instructions for pre-training an ResNet50-FPN on ImageNet or COCO can be found in ./sh.
+All the instructions for pre-training a ResNet50-FPN on ImageNet or COCO can be found in ./sh.
 
 Please modify the path to the dataset according to your local path.
 
