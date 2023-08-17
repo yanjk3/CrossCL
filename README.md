@@ -4,7 +4,7 @@ Official PyTorch implementation of ICME2023 paper “Self-supervised Cross-stage
 
 ## News
 - 2023/08/17 We apply CrossCL ResNet50 backbone to our sparse detector [ASAG](https://github.com/fushh/ASAG) and improve +1.2 AP.
-- 2023/07/26 Checkpoints and Logs are released at [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
+- 2023/07/26 Checkpoints and Logs are released at [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key: icme.
 - 2023/04/02 Code released.
 
 ## Environments
@@ -57,7 +57,7 @@ Note, we do not provide the training code for training with mmdetection.
 However, you can use the converted backbone model and follow the guidelines of mmdetection to train the model.
 
 ## Checkpoints and Logs
-The pre-training/converted checkpoints and the pre-training/fine-tunig training logs can be downloaded [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key:icme.
+The pre-training/converted checkpoints and the pre-training/fine-tunig training logs can be downloaded [here](https://pan.baidu.com/s/1aCacbdBBEolAwxtMNmD0RA), key: icme.
 
 If you have any problem, plz feel free to open an issue or contact me.
 
