@@ -1,6 +1,6 @@
 # CrossCL
 
-Official PyTorch implementation of ICME2023 paper “Self-supervised Cross-stage Regional Contrastive Learning for Object Detection”.
+Official PyTorch implementation of ICME2023 paper “Self-supervised Cross-stage Regional Contrastive Learning for Object Detection”. [Paper](https://ieeexplore.ieee.org/document/10219835).
 
 ## News
 - 2023/08/17 We apply CrossCL ResNet50 backbone to our sparse detector [ASAG](https://github.com/iSEE-Laboratory/ASAG) and improve +1.2 AP.
